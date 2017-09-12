@@ -7,154 +7,157 @@ $(document).ready(function() {
     $("#jsdescr").fadeToggle();
     $("#js").fadeToggle();
   });
-  -----
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#operators").click(function() {
+    $("#operatorsdescr").fadeToggle();
+    $("#operators").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#operatorsdescr").click(function() {
+    $("#operatorsdescr").fadeToggle();
+    $("#operators").fadeToggle();
   });
-  ------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#variables").click(function() {
+    $("#variablesdescr").fadeToggle();
+    $("#variables").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#variablesdescr").click(function() {
+    $("#variablesdescr").fadeToggle();
+    $("#variables").fadeToggle();
   });
-  -------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#conventions").click(function() {
+    $("#conventionsdescr").fadeToggle();
+    $("#conventions").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#conventionsdescr").click(function() {
+    $("#conventionsdescr").fadeToggle();
+    $("#conventions").fadeToggle();
   });
-  -------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#functions").click(function() {
+    $("#functionsdescr").fadeToggle();
+    $("#functions").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  -------
+  $("#functionsdescr").click(function() {
+    $("#functionsdescr").fadeToggle();
+    $("#functions").fadeToggle();
   });
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#methods").click(function() {
+    $("#methodsdescr").fadeToggle();
+    $("#methods").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#methodsdescr").click(function() {
+    $("#methodsdescr").fadeToggle();
+    $("#methods").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#arguments").click(function() {
+    $("#argumentsdescr").fadeToggle();
+    $("#arguments").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#argumentsdescr").click(function() {
+    $("#argumentsdescr").fadeToggle();
+    $("#arguments").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#parameters").click(function() {
+    $("#parametersdescr").fadeToggle();
+    $("#parameters").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#parametersdescr").click(function() {
+    $("#parametersdescr").fadeToggle();
+    $("#parameters").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#returns").click(function() {
+    $("#returnsdescr").fadeToggle();
+    $("#returns").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#returnsdescr").click(function() {
+    $("#returnsdescr").fadeToggle();
+    $("#returns").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#chaining").click(function() {
+    $("#chainingdescr").fadeToggle();
+    $("#chaining").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#chainingdescr").click(function() {
+    $("#chainingdescr").fadeToggle();
+    $("#chaining").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#stringy").click(function() {
+    $("#stringydescr").fadeToggle();
+    $("#stringy").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#stringydescr").click(function() {
+    $("#stringydescr").fadeToggle();
+    $("#stringy").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+
+  $("#booleans").click(function() {
+    $("#booleansdescr").fadeToggle();
+    $("#booleans").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
-  $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+  $("#booleansdescr").click(function() {
+    $("#booleansdescr").fadeToggle();
+    $("#booleans").fadeToggle();
   });
-  $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
-  ---------
+
+  $("#undefined").click(function() {
+    $("#undefineddescr").fadeToggle();
+    $("#undefined").fadeToggle();
+  });
+  $("#undefineddescr").click(function() {
+    $("#undefineddescr").fadeToggle();
+    $("#undefined").fadeToggle();
+  });
+
+  $("#nan").click(function() {
+    $("#nandescr").fadeToggle();
+    $("#nan").fadeToggle();
+  });
+  $("#nandescr").click(function() {
+    $("#nandescr").fadeToggle();
+    $("#nan").fadeToggle();
+  });
+
+  $("#alert").click(function() {
+    $("#alertdescr").fadeToggle();
+    $("#alert").fadeToggle();
+  });
+  $("#alertdescr").click(function() {
+    $("#alertdescr").fadeToggle();
+    $("#alert").fadeToggle();
+  });
+
+  $("#comments").click(function() {
+    $("#commentsdescr").fadeToggle();
+    $("#comments").fadeToggle();
+  });
+  $("#commentsdescr").click(function() {
+    $("#commentsdescr").fadeToggle();
+    $("#comments").fadeToggle();
+  });
+
+  $("#q").click(function() {
+    $("#qdescr").fadeToggle();
+    $("#q").fadeToggle();
+  });
+  $("#qdescr").click(function() {
+    $("#qdescr").fadeToggle();
+    $("#q").fadeToggle();
+  });
+
+  $("#attributes").click(function() {
+    $("#attributesdescr").fadeToggle();
+    $("#attributes").fadeToggle();
+  });
+  $("#attributesdescr").click(function() {
+    $("#attributesdescr").fadeToggle();
+    $("#attributes").fadeToggle();
   });
 });
