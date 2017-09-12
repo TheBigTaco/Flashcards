@@ -1,163 +1,163 @@
 $(document).ready(function() {
   $("#js").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+    $("#jsdescr").slideToggle();
+    $("#js").slideToggle();
   });
   $("#jsdescr").click(function() {
-    $("#jsdescr").fadeToggle();
-    $("#js").fadeToggle();
+    $("#jsdescr").slideToggle();
+    $("#js").slideToggle();
   });
 
   $("#operators").click(function() {
-    $("#operatorsdescr").fadeToggle();
-    $("#operators").fadeToggle();
+    $("#operatorsdescr").slideToggle();
+    $("#operators").slideToggle();
   });
   $("#operatorsdescr").click(function() {
-    $("#operatorsdescr").fadeToggle();
-    $("#operators").fadeToggle();
+    $("#operatorsdescr").slideToggle();
+    $("#operators").slideToggle();
   });
 
   $("#variables").click(function() {
-    $("#variablesdescr").fadeToggle();
-    $("#variables").fadeToggle();
+    $("#variablesdescr").slideToggle();
+    $("#variables").slideToggle();
   });
   $("#variablesdescr").click(function() {
-    $("#variablesdescr").fadeToggle();
-    $("#variables").fadeToggle();
+    $("#variablesdescr").slideToggle();
+    $("#variables").slideToggle();
   });
 
   $("#conventions").click(function() {
-    $("#conventionsdescr").fadeToggle();
-    $("#conventions").fadeToggle();
+    $("#conventionsdescr").slideToggle();
+    $("#conventions").slideToggle();
   });
   $("#conventionsdescr").click(function() {
-    $("#conventionsdescr").fadeToggle();
-    $("#conventions").fadeToggle();
+    $("#conventionsdescr").slideToggle();
+    $("#conventions").slideToggle();
   });
 
   $("#functions").click(function() {
-    $("#functionsdescr").fadeToggle();
-    $("#functions").fadeToggle();
+    $("#functionsdescr").slideToggle();
+    $("#functions").slideToggle();
   });
   $("#functionsdescr").click(function() {
-    $("#functionsdescr").fadeToggle();
-    $("#functions").fadeToggle();
+    $("#functionsdescr").slideToggle();
+    $("#functions").slideToggle();
   });
 
   $("#methods").click(function() {
-    $("#methodsdescr").fadeToggle();
-    $("#methods").fadeToggle();
+    $("#methodsdescr").slideToggle();
+    $("#methods").slideToggle();
   });
   $("#methodsdescr").click(function() {
-    $("#methodsdescr").fadeToggle();
-    $("#methods").fadeToggle();
+    $("#methodsdescr").slideToggle();
+    $("#methods").slideToggle();
   });
 
   $("#arguments").click(function() {
-    $("#argumentsdescr").fadeToggle();
-    $("#arguments").fadeToggle();
+    $("#argumentsdescr").slideToggle();
+    $("#arguments").slideToggle();
   });
   $("#argumentsdescr").click(function() {
-    $("#argumentsdescr").fadeToggle();
-    $("#arguments").fadeToggle();
+    $("#argumentsdescr").slideToggle();
+    $("#arguments").slideToggle();
   });
 
   $("#parameters").click(function() {
-    $("#parametersdescr").fadeToggle();
-    $("#parameters").fadeToggle();
+    $("#parametersdescr").slideToggle();
+    $("#parameters").slideToggle();
   });
   $("#parametersdescr").click(function() {
-    $("#parametersdescr").fadeToggle();
-    $("#parameters").fadeToggle();
+    $("#parametersdescr").slideToggle();
+    $("#parameters").slideToggle();
   });
 
   $("#returns").click(function() {
-    $("#returnsdescr").fadeToggle();
-    $("#returns").fadeToggle();
+    $("#returnsdescr").slideToggle();
+    $("#returns").slideToggle();
   });
   $("#returnsdescr").click(function() {
-    $("#returnsdescr").fadeToggle();
-    $("#returns").fadeToggle();
+    $("#returnsdescr").slideToggle();
+    $("#returns").slideToggle();
   });
 
   $("#chaining").click(function() {
-    $("#chainingdescr").fadeToggle();
-    $("#chaining").fadeToggle();
+    $("#chainingdescr").slideToggle();
+    $("#chaining").slideToggle();
   });
   $("#chainingdescr").click(function() {
-    $("#chainingdescr").fadeToggle();
-    $("#chaining").fadeToggle();
+    $("#chainingdescr").slideToggle();
+    $("#chaining").slideToggle();
   });
 
   $("#stringy").click(function() {
-    $("#stringydescr").fadeToggle();
-    $("#stringy").fadeToggle();
+    $("#stringydescr").slideToggle();
+    $("#stringy").slideToggle();
   });
   $("#stringydescr").click(function() {
-    $("#stringydescr").fadeToggle();
-    $("#stringy").fadeToggle();
+    $("#stringydescr").slideToggle();
+    $("#stringy").slideToggle();
   });
 
   $("#booleans").click(function() {
-    $("#booleansdescr").fadeToggle();
-    $("#booleans").fadeToggle();
+    $("#booleansdescr").slideToggle();
+    $("#booleans").slideToggle();
   });
   $("#booleansdescr").click(function() {
-    $("#booleansdescr").fadeToggle();
-    $("#booleans").fadeToggle();
+    $("#booleansdescr").slideToggle();
+    $("#booleans").slideToggle();
   });
 
   $("#undefined").click(function() {
-    $("#undefineddescr").fadeToggle();
-    $("#undefined").fadeToggle();
+    $("#undefineddescr").slideToggle();
+    $("#undefined").slideToggle();
   });
   $("#undefineddescr").click(function() {
-    $("#undefineddescr").fadeToggle();
-    $("#undefined").fadeToggle();
+    $("#undefineddescr").slideToggle();
+    $("#undefined").slideToggle();
   });
 
   $("#nan").click(function() {
-    $("#nandescr").fadeToggle();
-    $("#nan").fadeToggle();
+    $("#nandescr").slideToggle();
+    $("#nan").slideToggle();
   });
   $("#nandescr").click(function() {
-    $("#nandescr").fadeToggle();
-    $("#nan").fadeToggle();
+    $("#nandescr").slideToggle();
+    $("#nan").slideToggle();
   });
 
   $("#alert").click(function() {
-    $("#alertdescr").fadeToggle();
-    $("#alert").fadeToggle();
+    $("#alertdescr").slideToggle();
+    $("#alert").slideToggle();
   });
   $("#alertdescr").click(function() {
-    $("#alertdescr").fadeToggle();
-    $("#alert").fadeToggle();
+    $("#alertdescr").slideToggle();
+    $("#alert").slideToggle();
   });
 
   $("#comments").click(function() {
-    $("#commentsdescr").fadeToggle();
-    $("#comments").fadeToggle();
+    $("#commentsdescr").slideToggle();
+    $("#comments").slideToggle();
   });
   $("#commentsdescr").click(function() {
-    $("#commentsdescr").fadeToggle();
-    $("#comments").fadeToggle();
+    $("#commentsdescr").slideToggle();
+    $("#comments").slideToggle();
   });
 
   $("#q").click(function() {
-    $("#qdescr").fadeToggle();
-    $("#q").fadeToggle();
+    $("#qdescr").slideToggle();
+    $("#q").slideToggle();
   });
   $("#qdescr").click(function() {
-    $("#qdescr").fadeToggle();
-    $("#q").fadeToggle();
+    $("#qdescr").slideToggle();
+    $("#q").slideToggle();
   });
 
   $("#attributes").click(function() {
-    $("#attributesdescr").fadeToggle();
-    $("#attributes").fadeToggle();
+    $("#attributesdescr").slideToggle();
+    $("#attributes").slideToggle();
   });
   $("#attributesdescr").click(function() {
-    $("#attributesdescr").fadeToggle();
-    $("#attributes").fadeToggle();
+    $("#attributesdescr").slideToggle();
+    $("#attributes").slideToggle();
   });
 });
